@@ -1,4 +1,3 @@
-import UIKit
 //variables
 let greet = "Hello"
 var greeting = "Left"
